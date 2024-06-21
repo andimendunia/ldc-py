@@ -1,0 +1,6 @@
+# Ignore virtual environment directory
+ldc/
+
+# Ignore compiled files
+__pycache__/
+*.py[cod]
